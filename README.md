@@ -1,2 +1,2 @@
 # tip_calc
-Tip Calculator
+Basic tip calculator written in python
